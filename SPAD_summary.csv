@@ -1,0 +1,4 @@
+sensor,pair,n_pos,n_neg,t_certain_h,t_reported_h,AUC,CI_low,CI_high,exact_MWU_p
+butyrate,DSS Feces vs Healthy Feces,6,6,11.08,11.58,1.0,1.0,1.0,0.0022
+heme,DSS Feces vs Healthy Feces,6,6,5.53,6.03,1.0,1.0,1.0,0.0022
+lactate,DSS Feces + 200mM vs DSS Feces,4,4,12.82,13.32,1.0,1.0,1.0,0.0286
